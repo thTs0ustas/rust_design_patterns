@@ -7,10 +7,6 @@ edition = "2021"
 
 [dependencies]
 
-[lib]
-name = "rust_design_patterns"
-path = "src/lib.rs"
-
 [[bin]]
 name = "main"
 path = "src/main.rs"
